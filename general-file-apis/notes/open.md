@@ -25,7 +25,7 @@ accessmode are specified in <fcntl.h>
 
 `int fd = open("/usr/syed/usp", O_RDWR | O_APPEND, 0);`
 
-The third argument is used when new file is created.
+The third argument is used when new file is created.<br>
 ![Screenshot 2020-11-29 153117](https://user-images.githubusercontent.com/44167922/100538826-09ed7580-3258-11eb-9948-4cfacefabde7.png)
 
 

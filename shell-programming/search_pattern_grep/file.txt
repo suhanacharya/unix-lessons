@@ -1,0 +1,4 @@
+1 | Jedi Master | Obiwan Kenobi |
+2 | Padawan | Anakin Skywalker |
+3 | Jedi Master | Yoda |
+3 | Jedi Master | Quigon Jin |

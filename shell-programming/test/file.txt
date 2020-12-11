@@ -1,0 +1,8 @@
+Hello this is pattern match test.
+line1
+line2
+line3
+4line
+5line
+line2
+lin2
